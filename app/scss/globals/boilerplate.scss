@@ -9,9 +9,12 @@ html {
   box-sizing: inherit;
 }
 
-body {
+* {
   margin: 0;
   padding: 0;
+}
+
+body {
   font-family: var(--font-inter);
   background: var(--background);
   color: var(--text-color);
